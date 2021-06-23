@@ -1,0 +1,12 @@
+D:\DEV\CreditoParatodxs\bin\Debug\netcoreapp3.1\CreditoParatodxs.exe
+D:\DEV\CreditoParatodxs\bin\Debug\netcoreapp3.1\CreditoParatodxs.deps.json
+D:\DEV\CreditoParatodxs\bin\Debug\netcoreapp3.1\CreditoParatodxs.runtimeconfig.json
+D:\DEV\CreditoParatodxs\bin\Debug\netcoreapp3.1\CreditoParatodxs.runtimeconfig.dev.json
+D:\DEV\CreditoParatodxs\bin\Debug\netcoreapp3.1\CreditoParatodxs.dll
+D:\DEV\CreditoParatodxs\bin\Debug\netcoreapp3.1\CreditoParatodxs.pdb
+D:\DEV\CreditoParatodxs\obj\Debug\netcoreapp3.1\CreditoParatodxs.AssemblyInfoInputs.cache
+D:\DEV\CreditoParatodxs\obj\Debug\netcoreapp3.1\CreditoParatodxs.AssemblyInfo.cs
+D:\DEV\CreditoParatodxs\obj\Debug\netcoreapp3.1\CreditoParatodxs.csproj.CoreCompileInputs.cache
+D:\DEV\CreditoParatodxs\obj\Debug\netcoreapp3.1\CreditoParatodxs.dll
+D:\DEV\CreditoParatodxs\obj\Debug\netcoreapp3.1\CreditoParatodxs.pdb
+D:\DEV\CreditoParatodxs\obj\Debug\netcoreapp3.1\CreditoParatodxs.genruntimeconfig.cache
